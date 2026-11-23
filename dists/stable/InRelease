@@ -4,34 +4,34 @@ Hash: SHA512
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Mon, 23 Nov 2026 13:49:39 +0000
+Date: Mon, 23 Nov 2026 14:04:30 +0000
 Label: ktoulgaridis
 Origin: ktoulgaridis
 Suite: stable
 MD5Sum:
- f8d421da1d8afb342db12bdae0d5121f              866 main/binary-amd64/Packages
- 4d3199a5e414b1562c6c92e756bcba81              588 main/binary-amd64/Packages.gz
- 226472e3fdd1d30f7833e3cf47533794              866 main/binary-arm64/Packages
- 3dc81de43bda7b1516e5bc04e4d95d93              587 main/binary-arm64/Packages.gz
+ 52dd04cdc9bc3331ddaa895109efb7d2             1732 main/binary-amd64/Packages
+ 7cc37556e320f62e41dbae5784e34263              789 main/binary-amd64/Packages.gz
+ e94f6e185bb4c46165f22cba10e88719             1732 main/binary-arm64/Packages
+ cf528c68eeb288db589b7a1331293ebc              793 main/binary-arm64/Packages.gz
 SHA1:
- 14df537be324e900f205737cc32fa68257721cd0              866 main/binary-amd64/Packages
- 5ebfb66329e9ad0982efdb2b1057efe16ecbb555              588 main/binary-amd64/Packages.gz
- b64bd2b2f7786574d4d0d7ba1600a6a9e262caf2              866 main/binary-arm64/Packages
- 16721ffc2ceb596d7b75107d43a5e1c737045eef              587 main/binary-arm64/Packages.gz
+ f13cb53bd3198fcabc126e375132b7aa69ee70ed             1732 main/binary-amd64/Packages
+ aa10a487a2e08ed77e9e5783304176e613727070              789 main/binary-amd64/Packages.gz
+ bfafdc6d66932a2eebd18b45e1d2c7b7d9f68318             1732 main/binary-arm64/Packages
+ 70c7af4fd4acd454b24e7b6f4772a556108b6aaf              793 main/binary-arm64/Packages.gz
 SHA256:
- 6260894262532e773789d12afebe0b3eaa0af5b10dafffec15397b82d89cf673              866 main/binary-amd64/Packages
- 8b5a39766ced792bcdad5cdf0a313f48e9534e2a7e6c087e271db66b83584754              588 main/binary-amd64/Packages.gz
- 6038d50d2fa28be23919a778adf8c903c7973b26ea9e9281655bf2f5c7ba9a9b              866 main/binary-arm64/Packages
- be76bb44abb92aed7dec2f707eedab0ea5bf5e8dec8a9e5b9854d802962c2c35              587 main/binary-arm64/Packages.gz
+ 9e22184c0af872879885fcde2a5b4a56dd7d160bcb9f8e6b2f21ceb102e92dd8             1732 main/binary-amd64/Packages
+ 31e61ab11853e7bf55a8ff5742a99693f6e5fb93587024d9033a1fad63aa14c6              789 main/binary-amd64/Packages.gz
+ 33a581b47bed7d7f5c5406f55120484f853c31f36c175c3bff6f72816015d433             1732 main/binary-arm64/Packages
+ b9ca57aba4bbc69051054c31345fd5b0130eab7e641db8ff8dbaf0b99637ba6f              793 main/binary-arm64/Packages.gz
 SHA512:
- f7265111b10de71a75ba6dfd0d57cfb3a10289660e71fc87a7c90fa3b92435426cc5c8c35ea7f2ad50b8fcd3ac23a10853de2bad29225b2fc76d05d15397dd2e              866 main/binary-amd64/Packages
- f850e0b24fc32ebb4bac11c121661dd44d788c17ce8d567f8602e0e59e05a20bc285faf15e02b47122e68f4a22908118c09d1f879969d56330dca0c828aaef80              588 main/binary-amd64/Packages.gz
- bd76ad4123cb61c3ef3e5904c3f130a39c70aaff129096f0274cf37dabd9f89d4f84250f35a747cbb088f3aa66d80e7973a30b4b5fa6fb28ff2254456f0fe8ad              866 main/binary-arm64/Packages
- 1206abbadc9655d3fc77268aabd1180ed3003e519094e745a9a44c2a5ca5857e502e9cd745a203c13ae3ff68b6cf65c636bca119e9db8eeabaafdf923750467a              587 main/binary-arm64/Packages.gz
+ 5a27f74f7f4e90be36300b6f12bb936e07b784a4926d7ae12a9bca94397299849cfb473f6f9e69308ba012fe90c8f0fb9a0505510a5dd283d6e5c02275ab7e0b             1732 main/binary-amd64/Packages
+ 4aa9c56b7fa2a4f2e662755c9e986ed4064bcc61b266261a31000d38c207cc38cb3bf3834e546f281d38e4941b65d292b783615c29c8243e75cb6e5355b083a0              789 main/binary-amd64/Packages.gz
+ d88c1b4cd72bbce2aefc68e448b3ca626c450b85f70b9769902a48f3ca9360fdaff718930ddcb50faebbf88520fe6325b8255df117caf3bc7c03b5feb976ea85             1732 main/binary-arm64/Packages
+ c058e5c5c1143c6c5e5be3385eaab21383b899b5a7e2df68455c2aaef152efe289943b8e03ec6e271c9e3ac88f0d94c800fbbcf4dee102044bdb2a681ce67631              793 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSRqGsghZRDR/qcf5LynjHgi1stzgUCawREcwAKCRDynjHgi1st
-zqO5AP9zYDSlAnaPGq50tIQMfhvzVkQNsnZcpizZVqUPnV0kCwD6A3qhoAHwY0qc
-wwFFEfgyFFSPtshGwYgvSTwsDVSp2AA=
-=2Npi
+iHUEARYKAB0WIQSRqGsghZRDR/qcf5LynjHgi1stzgUCawRH7gAKCRDynjHgi1st
+zkoHAQCQY0IYZ262lZbObZzdfJASzUzx3gMl7vBiK30bgQFxGQEAikVnA4uc09+E
+yru3Z0NzKOPGcxmhQj4H9irwxyGi8QI=
+=ADdQ
 -----END PGP SIGNATURE-----
