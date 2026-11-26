@@ -36,3 +36,22 @@ Description: Control the TOPPING E2x2 USB audio interface over HID
  controlling it over its HID interface. Installs a udev rule that gives the
  device to the user at the local seat.
 
+Package: toppingctl
+Architecture: arm64
+Version: 0.2.0-1
+Priority: optional
+Section: sound
+Maintainer: Kyriakos Toulgaridis <35013508+ktoulgaridis@users.noreply.github.com>
+Installed-Size: 1606
+Depends: libc6 (>= 2.35), libudev1 (>= 183)
+Filename: pool/main/t/toppingctl/toppingctl_0.2.0-1_arm64.deb
+Size: 546860
+MD5sum: 5ad8f81cbbe299eff4468f9665e48de0
+SHA1: 82d67dab0375707ee702a5d06aa1ab1c32189a2c
+SHA256: c167f7bb00574baddf4daa7169dd2f6033ca1be5796b4a319c7d6486bf3516ad
+SHA512: 87ecd2b8e29b6a2c4896ae03c6766845a05b2396cfef92dc8ad53a875b205003e3db0917493f1243f86e8ba35ae62924739f9482dfac8dbf5601e1eb9ad75719
+Description: Control the TOPPING E2x2 USB audio interface over HID
+ A terminal app (TUI and CLI) for the TOPPING E2x2 USB audio interface,
+ controlling it over its HID interface. Installs a udev rule that gives the
+ device to the user at the local seat.
+
